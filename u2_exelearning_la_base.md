@@ -6,14 +6,10 @@ Nos vamos acercando al cogollo del curso, a lo importante. Hasta ahora hemos hab
 Ahora **nos vamos a centrar en cómo hacer las actividades sobre las que hemos teorizado**. Pero antes de decirte TODAS LAS HERRAMIENTAS QUE HAY vamos a empezar por la principal, la base que hemos elegido **EXELEARNING**
 
 
-![](img/img0.png)
+![](img/img0(1).png)
 
-## ExeLearning
+## eXeLearning ![](img/exe50.jpg)
 
-<li>
-
-![](img/exe50.jpg)
-<ul>
 - Qué es: es una herramienta de autor de código abierto para ayudar a los docentes en la creación y publicación de contenidos web.
 - Licencia: Open Source
 - Web: [exelearning.net](http://exelearning.net/)

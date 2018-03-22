@@ -1,10 +1,10 @@
 
 # M1. Empezando
 
-¿conoces el siguiente gráfico?
+¿Conoces el siguiente gráfico?
 
 ![](img/ConoDale.JPG)
-<td style="text-align: center;">Fig. 1.1.: [Luis Orbegoso](http://luisorbegoso.blogspot.com.es/2013/03/el-cono-de-edgar-dale.html) CC</td>
+    Fig. 1.1.: [Luis Orbegoso](http://luisorbegoso.blogspot.com.es/2013/03/el-cono-de-edgar-dale.html) CC
 
 No se trata de perder mucho tiempo con la explicación del gráfico, ya que entre otras cosas no está clara la evidencia científica de los porcentajes asignados, pero si de realizar una lectura:
 
@@ -18,7 +18,9 @@ Por lo tanto, antes de explicar qué es esto de las HERRAMIENTAS DE ELABORACIÓN
 
 ¿Cúal es la diferencia entre Wikipedia y la Espasa? ¿Por qué ahora ya no usamos la Espasa?
 
-<script type="text/javascript">var feedback20_9text = "Mostrar retroalimentación";</script><input class="feedbackbutton" name="toggle-feedback-20_9" onclick="$exe.toggleFeedback(this,true);return false" type="button" value="Mostrar retroalimentación"/>
+
+%accordion%Solución%accordion%
+
 
 ### Retroalimentación
 
@@ -29,6 +31,8 @@ De Texto, casi todo el mundo podría dar una definición, aunque sólo sea por l
 El hipertexto, es esencialmente el texto al que enriquecemos con enlaces (links) y este simple hecho le da una potencia de busqueda tremenda.
 
 Piensa en cuando has buscado en un diccionario de papel. El tiempo de localizar la palabra no es pequeño. Con un enlace o link ese tiempo es instantáneo. Este dimple hecho hace inbatible a wikipedia frente a las enciclopedias clásicas de papel.
+
+%/accordion%
 
 Los que estudiamos antes de la aparición de internet, estudiabamos en textos de papel. Cuando nos hemos dedicado a la docencia hemos empleado todo tipo de libros, textos, fichas o cuadernos de actividades.
 

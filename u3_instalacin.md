@@ -11,7 +11,7 @@ En Exelearning también se puede usar de forma **PORTABLE**
 
 Veremos en el M3 que hay otras herramientas que se pueden usar on-line Exelearning NO es posible.
 
-Aunque en general estos conceptos:** instalación o aplicación portable** son bien conocidos, vamos a repasarlos.
+Aunque en general estos conceptos, **instalación o aplicación portable** son bien conocidos, vamos a repasarlos.
 
 ## Instalación local
 
@@ -31,17 +31,15 @@ El programa portable, cuando hacemos doble clic sobre el icono, ya ejecuta el pr
 
 Sus ventajas son:
 
-- se pueden ejecutar en cualquier ordenador, sin privilegios de administrador
-- se pueden llevar, por ejemplo, en un pendrive y ejecutarlo desde el propio pendrive.
-- no modifican el registro de windows. El registro, "sufre" con instalaciones y desinstalaciones, lo que puede llegar a ralentizar mucho el funcionamiento del ordenador. Hay aplicaciones que se encargan **de limpiar el registro**, para mejorar el rendimiento como [CCleaner.](http://www.piriform.com/ccleaner)
+- Se pueden ejecutar en cualquier ordenador, sin privilegios de administrador
+- Se pueden llevar, por ejemplo, en un pendrive y ejecutarlo desde el propio pendrive.
+- No modifican el registro de windows. El registro, "sufre" con instalaciones y desinstalaciones, lo que puede llegar a ralentizar mucho el funcionamiento del ordenador. Hay aplicaciones que se encargan **de limpiar el registro**, para mejorar el rendimiento como [CCleaner.](http://www.piriform.com/ccleaner)
 
 Los inconvenientes:
 
-- van mas lentos, sobretodo cuando abrimos el programa
-- no asocia la extensión del archivo, con el programa portable
-- no se dejan actualizar
+- Van mas lentos, sobretodo cuando abrimos el programa
+- No asocia la extensión del archivo, con el programa portable
+- No se dejan actualizar
 
 En algunas herramientas, sólo hay portable, es decir no precisan intalación.
-
-## 
 

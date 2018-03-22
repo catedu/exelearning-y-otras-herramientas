@@ -15,19 +15,19 @@ Un OA intenta prever la adecuación, mejora y adaptación de los ODE, de modo qu
 
 Los niveles de agregación determinan  el nivel de granularidad de un OA, su mayor o menor tamaño y, por lo tanto, la posibilidad de ser reutilizado. Hay 4 niveles:
 
-Nivel de Granularidad 1
+**Nivel de Granularidad 1**
 
 Cualquier archivo (imagen, texto...), programa de ordenador o recurso que pueda ser utilizado didácticamente
 
-Nivel de Granularidad 2
+**Nivel de Granularidad 2**
 
 Sería un OA que agrupara varios recursos construyendo un tema o una lección
 
-Nivel de Granularidad 3
+**Nivel de Granularidad 3**
 
 Un ejemplo sería un curso complento de por ejemplo una materia, a partir de OAs de nivel 2
 
-Nivel de Granularidad 4
+**Nivel de Granularidad 4**
 
 Lo compondría por ejemplo una recopilación de todas las materias de un curso (3º ESO) a partir de OAs de nivel 3
 

@@ -10,7 +10,8 @@ Este concepto se utiliza no sólo en la educación a distancia, y se emplea tamb
 Como siempre que se produce un desarrollo tecnológico, y el e-learning puede ser considerado como tal, este lleva asociado una **terminología que nos ayuda a entender qué es o cómo se trabaja con el e-Learning**.
 
 ![](img/scorm.png)
-|Fig. 1.2. SCORM, un estandar de e-Learning
+
+Fig. 1.2. SCORM, un estandar de e-Learning
 
  
 

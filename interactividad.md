@@ -6,11 +6,16 @@
 Vamos a ver qué tipos de actividades hay. Para ello, piensa en un libro de ejercios, de los que acompañan a los libros de texto y por otro lado piensa en juego de ordenador.
 
 ![](img/cuaderno.jpg)
-<td style="text-align: center;">Fig. 1.3. Libro de ejercicios. [Clase de Paco](http://clasedeprimariadepaco.blogspot.com.es/2012/05/viernes-11-de-mayo-de-2012.html). CC.</td>| <td style="text-align: center;">Fig. 1.4. Actividad en un PC. [Jesús Domínguez](http://www.flickr.com/photos/jesusdq/). CC.</td>
+
+Fig. 1.3. Libro de ejercicios. [Clase de Paco](http://clasedeprimariadepaco.blogspot.com.es/2012/05/viernes-11-de-mayo-de-2012.html). CC
+
+![](img/jego350.jpg)
+
+Fig. 1.4. Actividad en un PC. [Jesús Domínguez](http://www.flickr.com/photos/jesusdq/). CC.</td>
 
 ¿Cuál es la diferencia?
 
-<script type="text/javascript">var feedback29_40_6text = "Mostrar retroalimentación";</script><input class="feedbackbutton" name="toggle-feedback-29_40_6" onclick="$exe.toggleFeedback(this,true);return false" type="button" value="Mostrar retroalimentación"/>
+%accordion%Solución%accordion%
 
 ### Retroalimentación
 
@@ -27,7 +32,8 @@ Se tiende a pensar que todo lo digital es interactivo y no es así. Si tu lees u
 Por el contrario un papel o una pizarra de tiza, que en principio no es interactiva, si hay un profesor corrigiendo mientras el alumno escribe, si es una actividad interactiva ya que va informando al alumno si va bien o mal.
 
 ![](img/no_int.jpg)
-<td style="text-align: center;">Fig. 1.5. Actividad no interactiva</td>
+<td style="text-align: center;">
+Fig. 1.5. Actividad no interactiva</td>
 
  
 
@@ -36,5 +42,8 @@ Por el contrario un papel o una pizarra de tiza, que en principio no es interact
 Será aquella actividad en la que el alumno tiene realimentación imientras hace la actividad.
 
 ![](img/si_int.jpg)
-<td style="text-align: center;">Fig. 1.6. Actividad interactiva</td>
+<td style="text-align: center;">
 
+Fig. 1.6. Actividad interactiva</td>
+
+%/accordion%
