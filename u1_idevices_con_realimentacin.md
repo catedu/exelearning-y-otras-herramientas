@@ -3,9 +3,9 @@
 
 Vamos a emplear iDevices que permiten una pequeña interacción con el usuario, el alumno del curso on-line. Son los iDevices:
 
-- [Actividad de lectura](actividad_de_lectura.html)
-- [Caso Práctico](caso_prctico.html)
-- [Reflexión](reflexin.html)
+- Actividad de lectura
+- Caso Práctico
+- Reflexión
 
 Se trata esencialmente de unas actividades en las que un botón añade información de realimentación, que el usuario puede utilizar o no.
 

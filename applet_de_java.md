@@ -9,5 +9,4 @@ Veamos como se inserta un applet de estos:
 
 <object data="http://aularagon.catedu.es/materialesaularagon2013/herramelabor/tm2/iD_java.swf" height="600" style="display: block; margin-left: auto; margin-right: auto;" type="application/x-shockwave-flash" width="800"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/herramelabor/tm2/iD_java.swf"/></object>
 
-[Volver a M2.U3.](applet_de_java.html)
 

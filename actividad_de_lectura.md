@@ -13,5 +13,3 @@ Veamos cómo se hace:
 
 <object data="http://aularagon.catedu.es/materialesaularagon2013/herramelabor/tm2/iD_ActLectura.swf" height="600" style="display: block; margin-left: auto; margin-right: auto;" type="application/x-shockwave-flash" width="800"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/herramelabor/tm2/iD_ActLectura.swf"/></object>
 
-[Volver M2.U1.](u1_idevices_con_realimentacin.html)
-

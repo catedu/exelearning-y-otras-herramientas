@@ -6,13 +6,16 @@ En el módulo 1, vimos algunos ejemplo de iDevices. En particular, aquellos que 
 En este módulo vamos a hacer un repaso, de todos los iDevices que se instalan por defecto cuando hacemos la instalación inicial de eXeLearning.
 
 Podemos clasificar los iDevices en función de para qué sirven.
-<td style="text-align: center;">**No interactivas**</td><td style="text-align: center;">**Interactivas****(sólo realimentación)**</td><td style="text-align: center;">**Interactivas****(ejercicios y exámenes)**</td><td style="text-align: center;">**Gadgets**</td>
-<td style="background-color: #a1caec;">Actividad</td><td style="background-color: #a1caec;">Actividad de Lectura</td><td style="background-color: #a1caec;">Pregunta de elección múltiple</td><td style="background-color: #a1caec;">Applet Java</td>
-<td style="background-color: #a1caec;">Conocimiento previo</td><td style="background-color: #a1caec;">Actividad desplegable</td><td style="background-color: #a1caec;">Pregunta de selección múltiple</td><td style="background-color: #a1caec;">Wikipedia</td>
-<td style="background-color: #a1caec;">Texto libre</td><td style="background-color: #a1caec;">Caso practico</td><td style="background-color: #a1caec;">Pregunta verdadero - falso</td><td style="background-color: #a1caec;">Galería imágenes</td>
-<td style="background-color: #a1caec;">Objetivos</td><td style="background-color: #a1caec;">Reflexión</td><td style="background-color: #a1caec;">Rellenar huecos</td><td style="background-color: #a1caec;">Lupa</td>
-<td style="background-color: #a1caec;"> </td><td style="background-color: #a1caec;"> </td><td style="background-color: #a1caec;"> Examen SCORM</td><td style="background-color: #a1caec;">RSS</td>
-<td style="background-color: #a1caec;"> </td><td style="background-color: #a1caec;"> </td><td style="background-color: #a1caec;"> </td><td style="background-color: #a1caec;">Web Externa</td>
+
+| No interactivas | Interactivas (sólo realimentación) |Interactivas (ejercicios y exámenes) |Gadgets |
+| ------ | ------ | ----- |----- |
+|Actividad |Actividad de Lectura	| Pregunta de elección múltiple	 |Applet Java|
+|Conocimiento previo	 |Actividad desplegable	| Pregunta de selección múltiple	 | Wikipedia |
+|Texto libre	 |Caso practico	| Pregunta verdadero - falso	 | Galería imágenes |
+|Objetivos	|Reflexión	| Rellenar huecos	 | Lupa|
+| ||  Examen SCORM	 |RSS |
+| ||  | Web Externa|
+
 
 Las no interactivas, permiten presentar información a modo de artículo, que puede ser enriquecido con enlaces, imágenes,animaciones o vídeos.
 

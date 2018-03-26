@@ -8,7 +8,7 @@ Este iDevice, es casi idéntico a Actividad de Lectura. Precisa cumplimetar sól
 
 Como es muy similar a los otros iDevices, vamos a ver en este ejemplo la dependencia de los iDevices de los estilos del proyecto eXeLearning. En ocasiones hay que tener cuidado. Veamoslo:
 
-<object data="http://aularagon.catedu.es/materialesaularagon2013/herramelabor/tm2/iD_reflexion.swf" height="600" style="display: block; margin-left: auto; margin-right: auto;" type="application/x-shockwave-flash" width="800"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/herramelabor/tm2/iD_reflexion.swf"/></object>[Volver M2.U1.](u1_idevices_con_realimentacin.html)
+<object data="http://aularagon.catedu.es/materialesaularagon2013/herramelabor/tm2/iD_reflexion.swf" height="600" style="display: block; margin-left: auto; margin-right: auto;" type="application/x-shockwave-flash" width="800"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/herramelabor/tm2/iD_reflexion.swf"/></object>
 
 ## Importante
 

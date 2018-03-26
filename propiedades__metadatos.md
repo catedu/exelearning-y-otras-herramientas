@@ -14,9 +14,9 @@ Para rellenar adecuadamente esta información, puede resultar interesante (no ob
 
 ## Artículo de la wikipedia
 
-## **Para saber más** sobre Dublin Core
+### **Para saber más** sobre Dublin Core
 
-## ¿Qué es?
+#### ¿Qué es?
 
 Estas definiciones:
 
@@ -26,7 +26,7 @@ Estas definiciones:
 
 Este sistema de definiciones fue diseñado específicamente para proporcionar un vocabulario de características "base", capaces de proporcionar la información descriptiva básica sobre cualquier recurso, sin que importe el formato de origen, el área de especialización o el origen cultural.
 
-## Clasificación y elementos
+### Clasificación y elementos
 
 En general, podemos clasificar estos elementos en tres grupos que indican la clase o el ámbito de la información que se guarda en ellos:
 
