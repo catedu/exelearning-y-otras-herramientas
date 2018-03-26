@@ -9,10 +9,16 @@ Cuando abrimos uno de los iDevices en los que hay que introducir principalmente 
 
 TinyMCE es un [editor de texto](http://es.wikipedia.org/wiki/Editor_de_texto) [WYSIWYG](http://es.wikipedia.org/wiki/WYSIWYG) para [HTML](http://es.wikipedia.org/wiki/HTML) de [código abierto.](http://es.wikipedia.org/wiki/C%C3%B3digo_abierto)
 
-WYSIWIG es el acrónimo de ****W**hat **Y**ou **S**ee **I**s **W**hat **Y**ou **G**et** (en español, "lo que ves es lo que obtienes"). Se aplica a los procesadores de texto y otros editores de texto con formato (como los editores de HTML) que permiten escribir un documento viendo directamente el resultado final.
+WYSIWIG es el acrónimo de **W**hat **Y**ou **S**ee **I**s **W**hat **Y**ou **G**et (en español, "lo que ves es lo que obtienes"). Se aplica a los procesadores de texto y otros editores de texto con formato (como los editores de HTML) que permiten escribir un documento viendo directamente el resultado final.
 
+Atención: Actualmente ha cambiado el aspecto (2017), para ver el editor completo, hay que apretar al botón Activar/Desactivar la barra de herramientas
 
 ![](img/2017-08-01_10_39_44-eXe___Texto_Libre.png)
+
+y nos queda así:
+
+![](img/img3.png)
+
 
 En el siguiente tutorial, procuramos explicar cómo hacer lo más habitual que hacemos en el tratamiento de un texto, utilizando TinyMCE (Es del 2014 pero es igual, simplemente que los botones han cambiado de aspecto)
 
