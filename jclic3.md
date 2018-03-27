@@ -27,7 +27,7 @@ En el panel A cargamos una imagen y en el panel B las etiquetas, entonces ya ten
 
 Para más información/documentación sobre Jclic, visita el [tutorial íntegro del INTEF.](http://www.ite.educacion.es/formacion/materiales/91/cd/indice.htm)
 
-![](Jclic_intef.jpg)
+![](img/Jclic_intef.jpg)
 <td style="text-align: center;">Fig. 1.3. Tutorial INTEF de JClic</td>
 
 También en Facilytic, dispones de [documentación sobre JClic](http://www.catedu.es/facilytic/2013/05/03/jclic/).

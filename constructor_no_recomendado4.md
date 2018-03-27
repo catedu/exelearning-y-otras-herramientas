@@ -3,15 +3,17 @@
 
 En Constructor, para hacer actividades tipo test, utilizamos las Plantillas:
 
-<li>Elegir la respuesta correcta. Dos versiones
-<ul>
-- Respuesta única
-- Respuesta múltiple
+- Elegir la respuesta correcta. Dos versiones
 
+    - Respuesta única
+    - Respuesta múltiple
+
+- Verdadero-Falso
+- 
 Para confeccionarla, haremos:
 
 1. Abrir un nuevo ODE y darle nombre
-1. Ir a Plantillas, y elegie una de las que hemos nombrado
+1. Ir a Plantillas, y elige una de las que hemos nombrado
 1. Completar el asistente de la actividad
 1. Guardar los cambios
 1. Finalmente previsualizar la actividad

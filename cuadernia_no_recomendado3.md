@@ -18,7 +18,7 @@ Veamos cómo:
 
 # ParaSaberMas
 
-Más informacón sobre la actividad **Pregunta, **la puedes encontrar en las páginas 49-50 del [manual de Cuadernia del CEP Azahar](http://www.cepazahar.org/recursos/mod/resource/view.php?id=4159)  de Córdoba
+Más informacón sobre la actividad *Pregunta,* la puedes encontrar en las páginas 49-50 del [manual de Cuadernia del CEP Azahar](http://www.cepazahar.org/recursos/mod/resource/view.php?id=4159)  de Córdoba
 
 Otro manual el [manual de Cuadernia de la Junta de comunidades de Castilla la Mancha](http://repositorio.educa.jccm.es/portal/Cuadernia/manual_cuadernia_v3.pdf) en las páginas 46-47
 

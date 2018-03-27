@@ -12,11 +12,11 @@ También otras formas:
 - herramientas que puede usarse directamente desde el navegador, es decir, on-line.
 - mediante aplicaciones portables.
 
-Aunque en general estos conceptos:** instalación, ejercución on-line o aplicación portable** son bien conocidos, vamos a repasarlos.
+Aunque en general estos conceptos: *instalación, ejercución on-line o aplicación portable* son bien conocidos, vamos a repasarlos.
 
 ## Instalación local
 
-La instalación de un programa es un proceso que habrás realizado en alguna ocasión. De la web del autor, si la aplicación es de descarga libre, se baja un programa llamado instalador, que al ejecutarlo coloca **cada cosa en su sitio**, creando accesos directos, el grupo de programas y modifica el registro de windows.
+La instalación de un programa es un proceso que habrás realizado en alguna ocasión. De la web del autor, si la aplicación es de descarga libre, se baja un programa llamado instalador, que al ejecutarlo coloca *cada cosa en su sitio*, creando accesos directos, el grupo de programas y modifica el registro de windows.
 
 Normalmente antes de hacer esto, al hacer doble clic en el instalador de windows, se nos presentan una serie de pantallas en las que se nos informan de licencias, opciones de programación y otras cosas. Para ir avanzando por este asistente de instalación hay un botón de **SIGUIENTE**, que en ocasiones pulsamos con demasiada alegría y conseguimos que se nos instale más cosas de las que deseabamos.
 
@@ -56,10 +56,7 @@ En el siguiente cuadro, hay un resumen de qué tipo de instalación está dispon
 
 # Importante
 
-![](img/exe50.jpg)
-|Local<td style="text-align: center;"> **√**</td><td style="text-align: center;">**√** </td><td style="text-align: center;"> **√**</td><td style="text-align: center;"> **√**</td><td style="text-align: center;"> **√**</td><td style="text-align: center;"> **√**</td><td style="text-align: center;">**√** </td><td style="text-align: center;"> **×**</td>
-|Portable<td style="text-align: center;"> **√**</td><td style="text-align: center;">**√**</td><td style="text-align: center;"> **√**</td><td style="text-align: center;"> **×**</td><td style="text-align: center;"> **×**</td><td style="text-align: center;"> **√**</td><td style="text-align: center;"> **×**</td><td style="text-align: center;"> **×**</td>
-|On-line<td style="text-align: center;"> **×**</td><td style="text-align: center;"> **×**</td><td style="text-align: center;"> **×**</td><td style="text-align: center;"> **×**</td><td style="text-align: center;"> **×**</td><td style="text-align: center;"> **√**</td><td style="text-align: center;"> **×**</td><td style="text-align: center;">**√**</td>
+![](img/tablainstalacion.png)
 
 En cada uno de los apartados de este tema, puedes ver cómo instalar las aplicaciones de la tabla anterior.
 

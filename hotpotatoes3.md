@@ -21,7 +21,7 @@ Veamos cómo:
 
 Como se ha comentado anteriormente el programa específico para crear esta actividad en HOTPOTATOES es JQUIZ
 
-El tutorial que aconsejo para aprender esta herramienta es la [siguiente página del INTE](http://www.ite.educacion.es/formacion/materiales/62/cd/modulo_3_crear_un_ejercicio/index.html) o [en pdf.](https://ea2be048-a-62cb3a1a-s-sites.googlegroups.com/site/ecomur/curso_completoHOTPOTATOES.pdf?attachauth=ANoY7coMefCRt4vG6yeGaDVUaehxtWHZOn5OnZN0YrJ00Kocg7bST3euX_cQD7ZRWtd8Xhpk3JyrTsQjIwMZ_9uYMPG0WWTQrjQmKSwaxgjJ_fFCiYOA71--3gobGSJi7n0yWwPbZjTvfpZhYCtEDOPdOzaEa5o5yFETSONGgFYoqcseekDNl_Ca-qv9Q866fvedDincScswARNOte9EeB1S2RZ-l3q7m71DbKT2MGHPZc8ZOuP5Qqo%3D&amp;attredirects=1)
+El tutorial que aconsejo para aprender esta herramienta es la [siguiente página del ITE](http://www.ite.educacion.es/formacion/materiales/62/cd/modulo_3_crear_un_ejercicio/index.html) o [en pdf.](https://ea2be048-a-62cb3a1a-s-sites.googlegroups.com/site/ecomur/curso_completoHOTPOTATOES.pdf?attachauth=ANoY7coMefCRt4vG6yeGaDVUaehxtWHZOn5OnZN0YrJ00Kocg7bST3euX_cQD7ZRWtd8Xhpk3JyrTsQjIwMZ_9uYMPG0WWTQrjQmKSwaxgjJ_fFCiYOA71--3gobGSJi7n0yWwPbZjTvfpZhYCtEDOPdOzaEa5o5yFETSONGgFYoqcseekDNl_Ca-qv9Q866fvedDincScswARNOte9EeB1S2RZ-l3q7m71DbKT2MGHPZc8ZOuP5Qqo%3D&amp;attredirects=1)
 
 Un paseo rápido lo realiza en [esta página](http://www.ite.educacion.es/formacion/materiales/62/cd/modulo_3_crear_un_ejercicio/introduccin_de_los_datos.html) (48-56 en pdf) pero aconsejo ir directamente al [tutorial de JQUIZ](http://www.ite.educacion.es/formacion/materiales/62/cd/modulo_4_tipos_de_ejercicios/jquiz.html) las páginas 58-87 en pdf, en estas páginas tenemos que aprender:
 

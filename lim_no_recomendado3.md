@@ -31,11 +31,11 @@ Los tipos son:
 
 - **Mostrar información** la actividad deja de ser interactiva, sólo muestra la etiqueta y referencia al punto indicado de forma numérica.
 - **Escribir textos** de mayor dificultad, el alumno tiene que escribir exáctamente el texto, mayúsculas y puntuaciones incluidas. ([pag 8 de este ejemplo](http://www.educalim.com/demos_es/demo.html) también se visualiza abajo)
-- **Arrastra etiquetas **es la opción más común ([pag 9 de este ejemplo ](http://www.educalim.com/demos_es/demo.html)también se visualiza abajo)
+- **Arrastra etiquetas** es la opción más común ([pag 9 de este ejemplo ](http://www.educalim.com/demos_es/demo.html)también se visualiza abajo)
 - **Pasar ratón** igual que mostrar información pero un poco interactiva
-- **Texto **igual que mostrar información pero en el punto indicado ([pag 7 de este ejemplo ](http://www.educalim.com/demos_es/demo.html)también se visualiza abajo)
+- **Texto** igual que mostrar información pero en el punto indicado ([pag 7 de este ejemplo ](http://www.educalim.com/demos_es/demo.html)también se visualiza abajo)
 - **Unir** como arrastrar, pero sin mover la etiqueta, sino crea una línea
-- **Enlaces **esta opción no es realmente una actividad, sino un índice. ([ver pág 48 del manual del CEP Indalo](http://catedu.es/materialesaularagon2013/herramelabor/mm3/paginas.pdf))
+- **Enlaces** esta opción no es realmente una actividad, sino un índice. ([ver pág 48 del manual del CEP Indalo](http://catedu.es/materialesaularagon2013/herramelabor/mm3/paginas.pdf))
 
 Otra variante para hacer un Panel gráfico: si queremos que en vez de etiquetas, sean imágenes se llama **Mover imágenes**, [ver ejemplo en la página 5](http://www.educalim.com/demos_es/demo240.html)
 

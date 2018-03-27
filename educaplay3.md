@@ -33,5 +33,3 @@ Como ventajas y novedades:
 
 En el [siguiente manual](http://es.scribd.com/doc/92816435/Tutorial-PDF-Educaplay) ([enlace alternativo](http://catedu.es/materialesaularagon2013/herramelabor/mm3/TutorialEducaplay.pdf)) en las páginas 11-14 (51-54 reales) del capítulo Actividades con Educaplay (II) se explica cómo realizarlo
 
- 
-

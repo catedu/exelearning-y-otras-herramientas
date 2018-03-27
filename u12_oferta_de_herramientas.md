@@ -13,10 +13,10 @@ Haz una lectura/vista rápida, de la siguiente sección, y visita si quieres las
 
 # Importante
 
-<li>
+
 
 ![](img/ardora50.jpg)
-<ul>
+
 - Qué es: es una aplicación informática para docentes, que permite crear sus propios contenidos web, de un modo muy sencillo, sin tener conocimientos técnicos de diseño o programación web.
 - Licencia: © José Manuel Bouzán Matanza. Es gratuito, siempre y cuando sea usado de forma personal, sin caracter lucrativo y con fines estrictamente educativos. No está permitida su descompilación en todo o en parte.
 - Web: [webardora.net](http://webardora.net)
@@ -54,13 +54,12 @@ Haz una lectura/vista rápida, de la siguiente sección, y visita si quieres las
 - Lo peor: Es también un clásico, y se le notan los años. No da mucho juego fuera de las 5 tipos de actividades que permite crear.
 - Tecnología: JAVA
 
-<li>
+
 
 ![](img/Cuadernia50.jpg)
-<ul>
-<li>
+
 Qué es: Es la herramienta que la Consejería de Educación, Cultura y Deportes de Castilla-La Mancha pone a disposición de toda la comunidad educativa para la creación y difusión de materiales educativos digitales.
-</li>
+
 - Licencia: Desarrollo de la JCLM
 - Web: [cuadernia.educa.jccm.es](http://cuadernia.educa.jccm.es/)
 - Lo mejor: Es muy buen desarrollo, permite crear multiples aplicaciones de forma intuitivia e incluso se pueden crear directamente en la web, sin necesidad de instalar aplicación en tu ordenador.
@@ -68,7 +67,7 @@ Qué es: Es la herramienta que la Consejería de Educación, Cultura y Deportes 
 - Tecnología: FLASH
 
 
-![](img/constructor50.jpg)
+Constructor ![](img/constructor50.jpg)
 
 - Qué es: es un poderoso instrumento de creación de contenidos educativos digitales; se trata de una herramienta de autor que se puede instalar en modo local o en un servidor, y tiene versiones para sistemas Debian y Windows.
 - Licencia: Open-source, desarrollado por la junta de Extremadura.

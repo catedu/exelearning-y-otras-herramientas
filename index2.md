@@ -8,7 +8,8 @@ En el módulo 2 variamos un poco la filosofía y nos centramos en una de las her
 **En este módulo recuperamos las otras actividades que presentamos en el módulo 1**. No se trata de "otras" en el sentido de menos importantes. Muchas de las herramientas de este módulo pueden sustituir completamente a eXeLearning. De hecho, muchas de ellas permiten hacer actividades que eXe no hace.
 
 ![](img/logos_todos_h.jpg)
-|Fig. 3.1. Logos de las herramientas que veremos en este módulo
+
+Fig. 3.1. Logos de las herramientas que veremos en este módulo
 
  
 
@@ -32,7 +33,6 @@ Lógicamente, si te interesa más de una puedes usar varias, pero este módulo e
 Si andas un poco perdido, recomendamos dos opciones tras leer la unidad 1:
 
 - Consulta con el tutor, exponle tus intereses, dudas, etc.
-<li>Acepta un consejo:
-<ul>
-- **Ardora **, es herramienta muy potente, que no precisa especial configuración del equipo más allá de navegador actualizado, **Ardora**  sólo en local pero tiene mucha variedad de actividades. Quizá esto te ayude en tu elección
+- Acepta un consejo:
+    - **Ardora**, es herramienta muy potente, que no precisa especial configuración del equipo más allá de navegador actualizado, **Ardora**  sólo en local pero tiene mucha variedad de actividades. Quizá esto te ayude en tu elección
 

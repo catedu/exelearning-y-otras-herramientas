@@ -1,9 +1,9 @@
 
 # Educaplay
 
-En educaplay, ya hicimos en el ejemplo del módulo 1 cómo hacer un **Panel gráfico**. En esta aplicación, lo llaman **Actividad con Mapa**.
+En educaplay, ya hicimos en el ejemplo del módulo 1 cómo hacer un *Panel gráfico*. En esta aplicación, lo llaman *Actividad con Mapa*.
 
-Cuando ya estamos identificados en educaplay con usuario y contraseña, **vamos a** **Crear actividad**. A partir de allí:
+Cuando ya estamos identificados en educaplay con usuario y contraseña, vamos a **Crear actividad**. A partir de allí:
 
 1. Nos lleva a una primera pantalla, en la que elegimos el tipo de actividad, en este caso Actividad con mapa. Además cumplimentamos nombre para la actividad y descripción
 1. Tras pulsar NEXT, nos muestra todo lo que debemos ir completando para que la actividad quede realizada. Datos generales, etiquetas para identificar nuestra actividad, subiremos la imagen a utilizar en el ejercicio y añadiremos las respuestas.

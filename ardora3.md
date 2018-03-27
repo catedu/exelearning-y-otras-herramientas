@@ -7,7 +7,7 @@ El **esquema** **para hacer una actividad de Panel Gráfico** en Ardora es:
 
 1. Abrir Ardora (es versión portable)
 1. Configurar Ardora (rutas donde debe buscar los materiales)
-1. En el menú archivo: Archivo&gt;Nueva Actividad&gt;Actividades Gráfocas&gt;Panel Gráfico
+1. En el menú archivo: Archivo&gt;Nueva Actividad&gt;Actividades Gráficas&gt;Panel Gráfico
 1. Añadimos a la Actividad, la imagen y las palabras que vamos a relacionar
 1. Luego las opciones de ejecución. Desde simplemente poner tipos de mensaje en caso de acierto o error a tiempos de ejecución, qué hacer si acertamos, que hacer si no, puntuación, etc.
 1. Podemos configurar las opciones de exportación, ya sea en formato SCORM o como web

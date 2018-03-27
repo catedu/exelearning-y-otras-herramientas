@@ -29,6 +29,6 @@ Veamos cómo hacer tódo esto:
 
 En el [siguiente manual de la Junta de Extremadura](http://constructor.educarex.es/index.php?option=com_content&amp;task=view&amp;id=151&amp;Itemid=211) podemos encontrar la ayuda para la plantilla avanzada llamada **Rellenar huecos arrastrando textos**.
 
-![](tut_const.jpg)
+![](img/tut_const.jpg)
 <td style="text-align: center;">Fig. 1.4. Tutorial Constructor</td>
 
