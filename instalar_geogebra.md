@@ -10,6 +10,6 @@ El proceso es muy simple:
 
 Esta es la web del instalador de GeoGebra:
 
-![](geo_instalador.jpg)
+![](img/geo_instalador.jpg)
 <td style="text-align: center;"> Fig. 4.6. Web de descarga de GeoGebra</td>
 

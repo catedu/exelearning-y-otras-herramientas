@@ -13,6 +13,6 @@ Esta desarrollado por [Down-Madrid](http://hada.ii.uam.es/dedos/?page_id=2), y c
 
 Por tanto, esta herramienta pude orientarse a preparar actividades para alumnos con discapacidad o dificultades de aprendizaje.
 
-![](dedos_intro.jpg)
+![](img/dedos_intro.jpg)
 <td style="text-align: center;">Fig. 4.2. Web de DEDOS</td>
 

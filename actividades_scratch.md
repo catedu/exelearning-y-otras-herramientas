@@ -3,7 +3,7 @@
 
 Una vez en la web de inicio de Scratch, [vamos a la sección Explorar](http://scratch.mit.edu/explore/?date=this_month), donde hay gran cantidad de actividades que podemos probar y reprogramar.
 
-![](scratch_actividades.jpg)
+![](img/scratch_actividades.jpg)
 <td style="text-align: center;">Fig. 4.12. Actividades de SCRATCH y acceso a usuarios</td>
 
 En **Únete a Scratch** podemos registrarnos como miembros de la comunidad Scratch para poder compartir los proyectos que elaboremos.

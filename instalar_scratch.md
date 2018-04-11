@@ -5,7 +5,7 @@ Recientemente SCRATCH ha incorporado una [versión on-line](http://scratch.mit.e
 
 En la imagen se muestra la interfaz de Scratch
 
-![](scratch_interfaz.jpg)
+![](img/scratch_interfaz.jpg)
 <td style="text-align: center;">Fig. 4.10. SCRATCH on-line</td>
 
  

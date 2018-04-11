@@ -12,6 +12,6 @@ Podemos registrarnos en GeoGebraTube, con nuevo registro o con nuestro usuario y
 
 GeoGebraTube tiene esta interfaz:
 
-![](geo_geotube.jpg)
+![](img/geo_geotube.jpg)
 <td style="text-align: center;">Fig. 4.8. GeoGebraTube</td>
 

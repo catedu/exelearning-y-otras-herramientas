@@ -5,6 +5,6 @@
 
 En ocasiones se llaman Cuentos dicotómicos o historias dicotómicas, es decir que en función de cada respuesta se crean diferentes historias.
 
-![](qry_que_es.jpg)
+![](img/qry_que_es.jpg)
 <td style="text-align: center;"> Fig 4.34. Web Quandary</td>
 

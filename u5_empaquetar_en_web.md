@@ -1,7 +1,7 @@
 
 # U5. Empaquetar en Web
 
-Hasta ahora hemos creado actividades "de una una" sin preocuparnos por si están integradas en un tema, unidad didáctica o colección de ejercicios.
+Hasta ahora hemos creado actividades "de una en una" sin preocuparnos por si están integradas en un tema, unidad didáctica o colección de ejercicios.
 
 Pero es muy importante tener la posibilidad de recopilar, ordenar y poder difundir una colección de ejercicios de un sólo "golpe", con una única web.
 

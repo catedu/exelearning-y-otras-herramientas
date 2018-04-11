@@ -10,7 +10,7 @@ Al estilo de JClic, MALTED está integrado en dos entornos:
 
 La imagen siguiente muestra el aspecto de la [web de inicio de MALTED](http://recursostic.educacion.es/malted/web/index.html). En ella vemos ya el principal problema de MALTED, que es el ocasionado por JAVA y los problemas de las últimas actualizaciones de Java.
 
-![](malted_inicio.jpg)
+![](img/malted_inicio.jpg)
 <td style="text-align: center;">Fig 4.22. Web proyecto MALTED</td>
 
  

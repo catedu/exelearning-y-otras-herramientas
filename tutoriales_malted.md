@@ -5,7 +5,7 @@ Hay **tutoriales Malted** en diversos formatos. Los hay en pdf, html o flash.
 
 En el caso de la web de Malted, he de ir al apartado: De Interés&gt;Tutorial Malted.
 
-![](malted_tut1.jpg)
+![](img/malted_tut1.jpg)
 <td style="text-align: center;"> Fig 4.28. Tutoriales MALTED</td><td style="text-align: center;">Fig 4.29. Estructura proyecto MALTED</td>
 
 También hay disponibles [tutoriales multimedia](http://recursostic.educacion.es/malted/web/documentos/tutorial/multimedia/index.htm), realizados en flash (para lo cual es preciso tener el [plugin de Flash](http://get.adobe.com/es/flashplayer/) instalado) que nos van guiando paso a paso.

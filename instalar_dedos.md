@@ -16,6 +16,6 @@ Para la instalación:
 
 En su web tenemos toda la información:
 
-![](dedos_instal.jpg)
+![](img/dedos_instal.jpg)
 <td style="text-align: center;">Fig. 4.3. Descarga de DEDOS</td>
 

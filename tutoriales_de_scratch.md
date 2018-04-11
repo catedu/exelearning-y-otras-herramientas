@@ -11,7 +11,7 @@ En Aularagón [tenemos cursos específicos de Scratch con el objetivo de la PROG
 
 La versión online incluye una [guia paso a paso](http://scratch.mit.edu/projects/editor/?tip_bar=getStarted), que se ejecuta junto a la aplicación, y que nos va diciendo que paso debemos hacer en cada momento. La misma [**guía interactiva paso a paso está disponible en pdf**](http://catedu.es/materialesaularagon2013/herramelabor/mm4/SCRATCHGuiaDeInicio.pdf), así como una [**guía de referencia**](http://catedu.es/materialesaularagon2013/herramelabor/mm4/ScratchGuiaReferencia14.pdf) más exhaustiva (disponible en [Eduteka](http://www.eduteka.org/ScratchGuiaReferencia.php))
 
-![](Scratch_guia.jpg)
+![](img/Scratch_guia.jpg)
 <td style="text-align: center;">Fig. 4.11. Interfaz de SCRATCH</td>
 
 

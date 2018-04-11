@@ -7,7 +7,7 @@ En la web de Malted es posible descargar gran cantidad de actividades. Para ello
 <td style="text-align: center;">Fig 4.30. Librería de recursos MALTED</td>
 
 
-![](img/Boton_descargar.jpg)
+Al inicio de la web hay un botón: ![](img/Boton_descargar.jpg)
 
 Antes de pulsarlo, deberemos haber marcado que unidades queremos descargar. Para ello en cada unidad, hay varios botones (Ayuda, Ver  y Notas de Profesor), y una casilla que es la que debemos marcar para descargarla:
 
@@ -21,7 +21,7 @@ Antes de pulsarlo, deberemos haber marcado que unidades queremos descargar. Para
 - **Notas del Profesor**: Archivo pdf con indicaciones para el profesor.
 
 
-![](img/Boton_descargar.jpg)
+Cuando seleccionamos las unidades que queremos y pulsamos a ![](img/Boton_descargar.jpg) , nos redirige a otra página en la que nos informa que va a bajar un archivo: instalar.jar
 
 Este archivo **instalar.jar,** lo ejecutaremos y nos instalará la actividad que luego podremos ejecutar con MaltedWeb2.0, al pulsar en **MI EQUIPO**.
 
