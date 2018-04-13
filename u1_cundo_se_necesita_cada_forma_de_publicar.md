@@ -12,7 +12,7 @@ Pero esta no es la única posibilidad de exportación. Casi todas la herramienta
 
 ### El paquete Web
 
-**Esta parte la hemos ido utilizando **a lo largo del curso. **En esta Unidad** vamos a ver cómo, además de poder hacer colecciones de actividades "sueltas", podemos darles coherencia en una unidad. Vamos a **integrar actividades**.
+**Esta parte la hemos ido utilizando** a lo largo del curso. **En esta Unidad** vamos a ver cómo, además de poder hacer colecciones de actividades "sueltas", podemos darles coherencia en una unidad. Vamos a **integrar actividades**.
 
 Por ejemplo: Imaginemos que tenemos unos test realizados con HotPotatoes y otros ejercicio realizados con Lim. Supongamos que son ejercicios para practicar a partir de una explicación teórica que has preparado en eXeLearning. Pues bien, en vez de tener 3 actividades, podemos integrar, por ejemplo, las actividades realizadas con LIM y HorPotatoes en el eXeLearning que contiene la teoría. Y así dejarlo todo en un sólo ODE.
 
@@ -54,13 +54,13 @@ Por tanto necesitaremos tener un curso moodle activo (por ejemplo en Catedu). Al
 
 Los alumnos deben matricularse en el curso y acceder con su usuario y contraseña. Una vez identificados acceden al curso, y Moodle lleva la cuenta de si ha relizado la o las actividades y en el caso de que sear una actividad tipo SCORM, almacena la calificación.
 
-Hay que pensar que Moodle se usa en formación a distancia, y allí es importante saber que hace el alumno, ya que no lo ves presencialmente. Es decir,** Moodle nos interesará cuando deseemos cierto control sobre la evolución del alumno**.
+Hay que pensar que Moodle se usa en formación a distancia, y allí es importante saber que hace el alumno, ya que no lo ves presencialmente. Es decir, **Moodle nos interesará cuando deseemos cierto control sobre la evolución del alumno**.
 
 Por tanto, en este caso las actividades se realizan también a través de navegador web, pero previo acceso a Moodle.
 
 ### Conclusión
 
-Para elegir qué tipo de exportación, l**o fundamental es plantearse  si queremos que sea un sistema de acceso restringido y con control o abierto y sin reflejo de la evolución y calificaciones que los alumnos van obteniendo en cada actividad.**
+Para elegir qué tipo de exportación, **lo fundamental es plantearse  si queremos que sea un sistema de acceso restringido y con control o abierto y sin reflejo de la evolución y calificaciones que los alumnos van obteniendo en cada actividad.**
 
 En el **primer caso**, acceso controlado, optaremos por exportar en SCORM y darmos de alta un **Moodle**
 

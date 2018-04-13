@@ -12,7 +12,7 @@ Vamos a ver o repetir pues algunas cosas ya se han dado en el módulo 2:
 
 - Publicar en **Procomún**
 - Publicar en **Moodle**
-- Publicar en **Drive**, en este caso no se puede visualizar la página web, pero sí que se puede descargar y el usuario tiene que descomprimirlo y sí que lo visualiza si hace dos clicks en index.htl
+- Publicar en **Drive**, en este caso no se puede visualizar la página web, pero sí que se puede descargar y el usuario tiene que descomprimirlo y sí que lo visualiza si hace dos clicks en index.html
 
 
 

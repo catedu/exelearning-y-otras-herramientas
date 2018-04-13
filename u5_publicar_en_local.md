@@ -8,5 +8,5 @@ En ambos casos es preciso instalar un servidor en nuestra red, pero en el caso d
 El caso de querer instalar un ODE en formato SCORM en un **Moodle instalado en local** en nuestro centro, lo dejaremos para el caso de que nuestro centro disponga de este servicio, aunque presentaremos algún Moodle fácilemente instalable por si queremos experimentar.
 
 ![](img/red_local.gif)
-<td style="text-align: center;">Fig. 5.9. Red Local. Autor: [OkPcBarcelona](http://www.okpcbarcelona.com/redes-lan.php%20). Lic. Creative Commons</td>
+Fig. 5.9. Red Local. Autor: [OkPcBarcelona](http://www.okpcbarcelona.com/redes-lan.php%20). Lic. Creative Commons
 
